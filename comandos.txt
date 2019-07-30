@@ -1,0 +1,19 @@
+Creating an app with yarn:
+
+  yarn create react-app my-app
+
+Creating an app with npm:
+
+  npm init react-app my-app
+
+Creating an app with npx:
+
+  npx create-react-app my-app
+
+
+Scripts:
+
+npm start or yarn start
+npm test or yarn test
+npm run build or yarn build
+
